@@ -1,15 +1,14 @@
-# 📄 Markdown → Website Converter
+ Markdown to Website Converter
 
-Convert any `.md` file into a styled `.html` webpage.
+Description:
+Convert your Markdown notes into clean, styled HTML web pages that open locally in your browser.
 
-## 🚀 Usage
+Tech Used: Python, HTML, CSS
 
-1️⃣ Install dependencies
+Features:
 
-pip install markdown
+Converts .md files to .html
 
-2️⃣ Run the converter
+Minimal CSS styling for clean reading
 
-python converter.py
-
-3️⃣ Open output.html in your browser
+Lightweight, fast, and API-free
